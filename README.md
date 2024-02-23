@@ -47,7 +47,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/mengze666.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/steven.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是小王同学。</p>
 <p>&emsp;&emsp;热爱编程、篮球、台球、读书、旅行。</p>
