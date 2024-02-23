@@ -27,7 +27,7 @@
     <a href="https://blog.csdn.net/weixin_52788492/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/mengze666/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=menze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -47,7 +47,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/mengze666.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是小王同学。</p>
 <p>&emsp;&emsp;热爱编程、篮球、台球、读书、旅行。</p>
