@@ -19,15 +19,15 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://blog.wangxinjie.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/mengze666/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@mengze666"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://mp.wangxinjie.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/507285761/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_52788492/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/mengze666/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=menze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -49,8 +49,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是小王同学。</p>
+<p>&emsp;&emsp;热爱编程、篮球、台球、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -61,51 +61,12 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/duoyi.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [广州多益网络股份有限公司](https://www.duoyi.com/) &emsp; 📌 2024-02-27 —— now
   
-  - 工作岗位：Web前端开发工程师
-  - 工作内容：杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-  
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
-</td></tr>
-
-<tr><td>
-
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/a8bf3922/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/2c20bbfc/' target='_blank'>青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-* <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/what-is.html' target='_blank'>什么是前端开发</a> - 2024-02-20
-* <a href='https://brain.sunguoqi.com/web/frontend/js/es6/test.html' target='_blank'>es6</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/js/test.html' target='_blank'>JS</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
-<!-- END_SECTION:brain -->
+  - 工作岗位：游戏服务端开发工程师（校招实习生）
+  - 工作内容：打杂
 
 </td></tr>
 
@@ -131,14 +92,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mengze666&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mengze666&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mengze666&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -197,12 +158,12 @@ Mac                      16 hrs 39 mins      ███████████�
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -216,9 +177,9 @@ Mac                      16 hrs 39 mins      ███████████�
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mengze666&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mengze666&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengze666&theme=default&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
@@ -232,9 +193,9 @@ Mac                      16 hrs 39 mins      ███████████�
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mengze666&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mengze666&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mengze666&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
@@ -253,11 +214,11 @@ Mac                      16 hrs 39 mins      ███████████�
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
   
 <!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=mengze666&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengze666&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mengze666&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 <!-- Wakatime Graph-->
 <table>
