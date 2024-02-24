@@ -184,10 +184,7 @@ Mac                      16 hrs 39 mins      ███████████�
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<div align="center"> <img src="https://metrics.lecoq.io/mengze666?template=classic&config.timezone=Asia%2FShanghai"/> </div>
-<img width="150" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/cxyduck.gif" />
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
