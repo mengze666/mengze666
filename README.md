@@ -39,6 +39,9 @@
   </picture>
 
 </div>
+
+<div align="center" >
+  
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -97,7 +100,7 @@
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/js.webp">
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
+</div>
 #  🙋 Hello
 
 <table>
