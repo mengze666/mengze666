@@ -26,6 +26,8 @@
     <a href="https://space.bilibili.com/507285761/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_52788492/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/mengze666/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://wakatime.com/@018dda7f-dff0-49ac-88b5-8ed5e6821ca4"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4.svg" alt="Total time coded since Feb 24 2024" /></a>
+    <a href="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4/project/018e6f88-72b6-4e10-a002-b2fb45b81b43"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4/project/018e6f88-72b6-4e10-a002-b2fb45b81b43.svg" alt="wakatime"></a>
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -89,19 +91,7 @@
 <tr><td>
 
 ### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mengze666&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mengze666&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mengze666&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
+<figure><embed src="https://wakatime.com/share/@mengze666/ce5d4614-53e8-412c-b4a7-dc957f9ae254.svg"></embed></figure>
 </td></tr>
 
 <tr><td>
