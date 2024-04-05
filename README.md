@@ -28,7 +28,7 @@
     <a href="https://www.zhihu.com/people/mengze666/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <a href="https://wakatime.com/@018dda7f-dff0-49ac-88b5-8ed5e6821ca4"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4.svg" alt="Total time coded since Feb 24 2024" /></a>
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" /></a>
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
