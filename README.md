@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小王同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);梦泽祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -27,7 +27,6 @@
     <a href="https://blog.csdn.net/weixin_52788492/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/mengze666/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <a href="https://wakatime.com/@018dda7f-dff0-49ac-88b5-8ed5e6821ca4"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4.svg" alt="Total time coded since Feb 24 2024" /></a>
-    <a href="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4/project/018e6f88-72b6-4e10-a002-b2fb45b81b43"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4/project/018e6f88-72b6-4e10-a002-b2fb45b81b43.svg" alt="wakatime"></a>
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -47,13 +46,14 @@
   
 <tr><td>
 
-### 🤺 About Me
+### 🧸 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/steven.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小王同学。</p>
+<p>&emsp;&emsp;嗨，你好，我是梦泽。</p>
 <p>&emsp;&emsp;热爱编程、篮球、台球、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业</p>
+<p>&emsp;&emsp;励志成为一名优秀的游戏服务端开发人员</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -68,7 +68,7 @@
 - [广州多益网络股份有限公司](https://www.duoyi.com/) &emsp; 📌 2024-02-27 —— now
   
   - 工作岗位：游戏服务端开发工程师（校招实习生）
-  - 工作内容：打杂
+  - 工作内容：负责游戏服务器开发、维护
 
 </td></tr>
 
