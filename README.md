@@ -96,7 +96,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/mengze666/mengze666/assets/images/js.webp">
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/9baddc30936cb7bd0996ba7de0e6f81eb8a3e0d4.svg" />
 </div>
 #  🙋 Hello
 
