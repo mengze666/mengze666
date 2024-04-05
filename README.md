@@ -26,7 +26,7 @@
     <a href="https://space.bilibili.com/507285761/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_52788492/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/mengze666/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <a href="https://wakatime.com/@018dda7f-dff0-49ac-88b5-8ed5e6821ca4"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4.svg" alt="Total time coded since Feb 24 2024" /></a>
+    <a href="https://wakatime.com/@018dda7f-dff0-49ac-88b5-8ed5e6821ca4"><img src="https://wakatime.com/badge/user/018dda7f-dff0-49ac-88b5-8ed5e6821ca4.svg" alt="Total time coded since Feb 24 2024" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <a href="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat"><img src="https://komarev.com/ghpvc/?username=mengze666&label=Views&color=0e75b6&style=flat" alt="访问量统计" /></a>
   </div>
